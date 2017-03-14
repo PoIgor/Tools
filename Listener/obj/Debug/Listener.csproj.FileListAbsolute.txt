@@ -1,0 +1,6 @@
+C:\work\GitHub\vrCluster\vrCluster\Tools\Listener\bin\Debug\Listener.exe.config
+C:\work\GitHub\vrCluster\vrCluster\Tools\Listener\bin\Debug\Listener.exe
+C:\work\GitHub\vrCluster\vrCluster\Tools\Listener\bin\Debug\Listener.pdb
+C:\work\GitHub\vrCluster\vrCluster\Tools\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache
+C:\work\GitHub\vrCluster\vrCluster\Tools\Listener\obj\Debug\Listener.exe
+C:\work\GitHub\vrCluster\vrCluster\Tools\Listener\obj\Debug\Listener.pdb
